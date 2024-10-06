@@ -1,0 +1,65 @@
+body {
+    background-image: url(snacks.jpg);
+}
+h1, h2, p {
+    text-align: center;
+
+}
+
+.menu {
+    background-color:paleturquoise;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    max-width: 400px;
+    
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.indItem {
+    text-align: left;
+    width: 75%;
+}
+
+.indPrice {
+    text-align: right;
+    width: 25%;
+}
+
+footer{
+    color: black;
+    margin-bottom: -25px;
+}
+
+a {
+    color: black;
+}
+
+.date {
+    font-style: italic;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom:-5px;
+}
+
+hr {
+    height: 2px;
+    border-color: white; 
+    background-color: white;
+}
+
+img {
+    max-width:150px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
